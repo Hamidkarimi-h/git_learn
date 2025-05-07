@@ -1,1 +1,4 @@
 This is a prctice for learning git
+
+add one line 
+add two line
